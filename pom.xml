@@ -17,12 +17,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>NexusRepo</id>
-		    <url>http://ec2-54-173-103-236.compute-1.amazonaws.com:8081/repository/batch17-d-snapshot//</url>
+		    <url>http://ec2-54-173-103-236.compute-1.amazonaws.com:8081/repository/batch17-d-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>NexusRepo</id>
-		    <url>http://ec2-54-173-103-236.compute-1.amazonaws.com:8081/repository/batch17-d//</url>
+		    <url>http://ec2-54-173-103-236.compute-1.amazonaws.com:8081/repository/batch17-d/</url>
 		</repository>
   	</distributionManagement>
     
