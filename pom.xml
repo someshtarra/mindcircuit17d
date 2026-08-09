@@ -5,7 +5,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>madhuapp</artifactId>
-    <version>2</version>
+    <version>2.0.0</version>
     <packaging>war</packaging>
 
 	<properties>
@@ -17,12 +17,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>NexusRepo</id>
-		    <url>http://ec2-54-173-103-236.compute-1.amazonaws.com:8081/repository/batch17-d/</url>
+		    <url>http://ec2-34-205-141-2.compute-1.amazonaws.com:8081/repository/somesh-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>NexusRepo</id>
-		    <url>http://ec2-54-173-103-236.compute-1.amazonaws.com:8081/repository/batch17-d-snapshot/</url>
+		    <url>http://ec2-34-205-141-2.compute-1.amazonaws.com:8081/repository/somesh/</url>
 		</repository>
   	</distributionManagement>
     
